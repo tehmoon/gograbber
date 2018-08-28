@@ -35,6 +35,7 @@ Works only on `Linux`.
   - Add user-data-dir flag if you want to reuse
   - Create new user-data-dir everytime
   - Drop privs if ran by root
+  - Use `-dump-dom` to dump the dom
 
 ### Contribution
 
